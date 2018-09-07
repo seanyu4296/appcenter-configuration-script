@@ -1,1 +1,1 @@
-This scripts are ran in bitbucket pipeline on branch creation. The main use of the scripts to automatically configure IOS and Android Branch Build in appcenter since appcenter requires a user to manually configure on branch creation.
+This scripts are ran in bitbucket pipeline on branch creation. The main use of the scripts is to automatically configure IOS and Android Branch Build in appcenter since appcenter requires a user to manually configure on branch creation.

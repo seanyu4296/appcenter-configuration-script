@@ -1,0 +1,10 @@
+image: node:10.1.0
+
+pipelines:
+  default:
+    - step:
+        caches:
+          - node
+        script:
+          - npm install axios aws-sdk
+          - npm run appcenterScripts
